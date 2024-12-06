@@ -7,8 +7,3 @@ This project contains SQL queries to analyze sales data and ensure data quality.
 2. **Tickets with 5+ Articles (Dec 2021)**: Identifies tickets with 5 or more unique articles in December 2021.
 3. **Most Popular Hour for Traditional Baguette Sales**: Finds the hour in July with the highest sales of the Traditional Baguette.
 4. **Data Quality Checks**: Tests for missing values, duplicates, and outliers, with findings reported.
-
-## Usage
-1. Load the dataset into a SQL database.
-2. Run the queries in order using a SQL client.
-3. Review the results for actionable insights.
